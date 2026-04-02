@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="thumbnail12.png" width="800">
+</p>
+
 # Hand Gesture Recognition using CNN and OpenCV
 
 A Deep Learning project that detects and classifies hand gestures using a Convolutional Neural Network (CNN).  
@@ -55,4 +59,11 @@ The model consists of:
 - Fully Connected Layers
 - Dropout Layer
 - Softmax Output Layer
+
+  ## 🔗 Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthamil45)
+- 🌍 [Portfolio](https://senthamill.vercel.app/)
+- 💻 [GitHub](https://github.com/selvan-01/Hand-Gesture-Recognition_CNN.git)
+
 
